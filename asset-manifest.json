@@ -1,18 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.535adc73.css",
-    "main.js": "/static/js/main.01f5bf19.js",
+    "main.js": "/static/js/main.f8540fa1.js",
     "static/js/787.262bde0d.chunk.js": "/static/js/787.262bde0d.chunk.js",
-    "static/media/step3Enable.gif": "/static/media/step3Enable.5dda26d6336157151fc3.gif",
-    "static/media/step2Recover.gif": "/static/media/step2Recover.f3b707e04d119c500b88.gif",
-    "static/media/step1Email.gif": "/static/media/step1Email.b56fe714b571e4afe4c6.gif",
     "static/media/starlink.png": "/static/media/starlink.ee905b4aaa83a8c2bfa9.png",
-    "static/media/mobile3.png": "/static/media/mobile3.80350f6d4c6da41db933.png",
     "static/media/ellipseBg.png": "/static/media/ellipseBg.ae0c2b0320c99bf8b101.png",
     "static/media/wave.png": "/static/media/wave.404f02d9aeb612b91f8b.png",
-    "static/media/mobile4.png": "/static/media/mobile4.bf8c5c53fb295044cbc6.png",
-    "static/media/mobile2.png": "/static/media/mobile2.5b1c50fad4dd759a390c.png",
     "static/media/mobile1.png": "/static/media/mobile1.5b49bf5f5ef1319c4dc4.png",
+    "static/media/mobile2.png": "/static/media/mobile2.81a5c842c341ac136a35.png",
+    "static/media/mobile3.png": "/static/media/mobile3.b1f7e7a67be207ff2343.png",
     "static/media/mobile5.png": "/static/media/mobile5.dfa5981168a8dd5f38aa.png",
     "static/media/relationChart.png": "/static/media/relationChart.47dbd236f465f6474811.png",
     "static/media/Aeonik-Bold.otf": "/static/media/Aeonik-Bold.a3a91f0710ce93317733.otf",
@@ -22,8 +18,10 @@
     "static/media/enhancedSecurity.png": "/static/media/enhancedSecurity.b0d7bef4d3f142f0be34.png",
     "static/media/noDataStorage.png": "/static/media/noDataStorage.fd7fc6bd35b8677a03d8.png",
     "static/media/logo.png": "/static/media/logo.3460383c70628fd9e2a1.png",
+    "static/media/securityWeb3.png": "/static/media/securityWeb3.95285d9ee07ccd0dc15c.png",
     "static/media/privacyProtection.png": "/static/media/privacyProtection.01134a148678289d906f.png",
     "static/media/coins.png": "/static/media/coins.d6a3be5ae77fdba4042b.png",
+    "static/media/securityWeb1.png": "/static/media/securityWeb1.d3705ef4bead86a70281.png",
     "static/media/antiCensorship.png": "/static/media/antiCensorship.2fa2ffe68e35283880d4.png",
     "static/media/mobileCoins.png": "/static/media/mobileCoins.758769c3372d78c3491b.png",
     "static/media/user2.png": "/static/media/user2.00a0769b23b258951659.png",
@@ -41,11 +39,11 @@
     "static/media/checkPrimary.svg": "/static/media/checkPrimary.b302847426e7f95e39564a2e286234a1.svg",
     "static/media/check.svg": "/static/media/check.148dea4ddba34ae739aadee08b6af126.svg",
     "main.535adc73.css.map": "/static/css/main.535adc73.css.map",
-    "main.01f5bf19.js.map": "/static/js/main.01f5bf19.js.map",
+    "main.f8540fa1.js.map": "/static/js/main.f8540fa1.js.map",
     "787.262bde0d.chunk.js.map": "/static/js/787.262bde0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.535adc73.css",
-    "static/js/main.01f5bf19.js"
+    "static/js/main.f8540fa1.js"
   ]
 }
